@@ -1,0 +1,13 @@
+streamlit
+requests
+youtube-transcript-api
+pytube
+langdetect
+transformers
+sentence-transformers
+faiss-cpu
+torch
+pdfkit
+wkhtmltopdf
+whisper
+mutagen
